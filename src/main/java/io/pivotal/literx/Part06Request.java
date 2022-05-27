@@ -7,9 +7,9 @@ import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;
 
 /**
- * Learn how to control the demand.
- *
- * @author Sebastien Deleuze
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part06Request {
 

@@ -7,9 +7,9 @@ import reactor.core.publisher.Mono;
 import java.util.List;
 
 /**
- * Learn how to use various other operators.
- *
- * @author Sebastien Deleuze
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part08OtherOperations {
 

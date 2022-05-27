@@ -6,10 +6,9 @@ import java.time.Duration;
 import java.util.Arrays;
 
 /**
- * Learn how to create Flux instances.
- *
- * @author Sebastien Deleuze
- * @see <a href="https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html">Flux Javadoc</a>
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part01Flux {
 

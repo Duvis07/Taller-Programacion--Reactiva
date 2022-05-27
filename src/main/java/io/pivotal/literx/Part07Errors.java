@@ -22,10 +22,9 @@ import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 /**
- * Learn how to deal with errors.
- *
- * @author Sebastien Deleuze
- * @see Exceptions#propagate(Throwable)
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part07Errors {
 

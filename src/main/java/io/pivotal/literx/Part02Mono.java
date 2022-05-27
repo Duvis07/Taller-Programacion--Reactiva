@@ -3,10 +3,9 @@ package io.pivotal.literx;
 import reactor.core.publisher.Mono;
 
 /**
- * Learn how to create Mono instances.
- *
- * @author Sebastien Deleuze
- * @see <a href="https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html">Mono Javadoc</a>
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part02Mono {
 
@@ -28,7 +27,7 @@ public class Part02Mono {
 
 	// TODO Return a Mono that contains a "foo" value
 	Mono<String> fooMono() {
-		return Mono.just("foot");
+		return Mono.just("foo");
 	}
 
 //========================================================================================

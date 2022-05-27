@@ -24,10 +24,9 @@ import reactor.core.publisher.Flux;
 import reactor.test.StepVerifier;
 
 /**
- * Learn how to use StepVerifier to test Mono, Flux or any other kind of Reactive Streams Publisher.
- *
- * @author Sebastien Deleuze
- * @see <a href="https://projectreactor.io/docs/test/release/api/reactor/test/StepVerifier.html">StepVerifier Javadoc</a>
+ * @author Duvan Botero
+ * @version  1.2
+ * @email duvanarleybotero@gmail.com
  */
 public class Part03StepVerifier {
 
