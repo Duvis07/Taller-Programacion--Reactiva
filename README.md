@@ -18,6 +18,22 @@
 # Part06 Test aprobados
 ![image](https://user-images.githubusercontent.com/96325513/170643467-c40e4a52-daf3-42b6-8261-4a38f508a7d7.png)
 
+# Part07 Test aprobados
+![image](https://user-images.githubusercontent.com/96325513/170643838-51bc3f58-3a2e-4b85-9b28-75f926ab7386.png)
+
+# Part08 Test aprobados
+![image](https://user-images.githubusercontent.com/96325513/170643954-06a97345-28a8-44b5-95b4-228b937e48c6.png)
+
+# Part09 Test aprobados
+![image](https://user-images.githubusercontent.com/96325513/170644144-e2855ac8-339d-46be-818d-56cad30872f1.png)
+
+# Part10 Test aprobados
+![image](https://user-images.githubusercontent.com/96325513/170644264-e9d67c02-37da-4495-992e-07ceafd686ca.png)}
+
+# Part11 Test aprobados
+![image](https://user-images.githubusercontent.com/96325513/170644387-ee2bf50c-ace4-418a-8a59-83b209904539.png)
+
+
 
 
 
