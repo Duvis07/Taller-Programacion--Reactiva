@@ -1,5 +1,8 @@
 # Lite Rx API Hands-on
 
+![image](https://user-images.githubusercontent.com/96325513/170642448-5a1af348-11ae-4237-9183-54577d051941.png)
+
+
 This Hands-on is designed to help you to learn easily the lite Rx API provided by [Reactor Core 3.x](https://github.com/reactor/reactor-core/).
 
 You will mostly need these 3 classes Javadoc:
